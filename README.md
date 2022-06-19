@@ -6,7 +6,7 @@ The data was given to me in the form of .csv and .tsv files, as well as an sqlit
 
 The key files within this repository will be the code in student.ipynb and the presentation titled 'Microsoft Studios Movie Recommendations.'
 
-Plots generated:
+Plots generated (plots may not be visable in dark mode. All relevent plots are included in the slides and visable clearly there):
 
 ![image](https://user-images.githubusercontent.com/104473048/174496563-faccd16b-3d81-4ae9-893e-97077f14ce88.png)
 
@@ -18,7 +18,7 @@ Plots generated:
 
 ![image](https://user-images.githubusercontent.com/104473048/174496584-4b48415e-f2d1-4188-a273-3b5dda9cd588.png)
 
-Links to presentation slides
+Links to presentation slides: https://github.com/CassidyExum/dsc-phase-1-project-v2-4/blob/master/Microsoft%20Studios%20Movie%20Recommendations.pdf
 
 
 ## Conclusions

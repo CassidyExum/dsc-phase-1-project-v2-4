@@ -4,13 +4,22 @@ I've been tasked with going through multiple files and an sqlite database to stu
 
 The data was given to me in the form of .csv and .tsv files, as well as an sqlite database. The data contains movie names, ratings, budgets, domestic and foreign gross numbers. The sqlite database from IMDB is the most complete, although only recent until 2018
 
+The key files within this repository will be the code in student.ipynb and the presentation titled 'Microsoft Studios Movie Recommendations.'
+
 Plots generated:
 
-![image](https://user-images.githubusercontent.com/104473048/172025076-9582ca6d-43cb-44d1-917e-bc2360704594.png)
+![image](https://user-images.githubusercontent.com/104473048/174496563-faccd16b-3d81-4ae9-893e-97077f14ce88.png)
 
-![image](https://user-images.githubusercontent.com/104473048/172025085-0b0e9e55-738e-4970-9310-11a9ff5f0494.png)
+![image](https://user-images.githubusercontent.com/104473048/174496565-3c7cdc17-194e-4958-9be0-ed53974e26bd.png)
 
-![image](https://user-images.githubusercontent.com/104473048/172025089-bb93651b-afc7-4d24-9514-1d7a01732c98.png)
+![image](https://user-images.githubusercontent.com/104473048/174496571-c5f685ca-77d5-4301-a0a3-1ee9947ffb13.png)
+
+![image](https://user-images.githubusercontent.com/104473048/174496576-919d2097-b031-4f67-b690-1171d63b75ef.png)
+
+![image](https://user-images.githubusercontent.com/104473048/174496584-4b48415e-f2d1-4188-a273-3b5dda9cd588.png)
+
+Links to presentation slides
+
 
 ## Conclusions
 
